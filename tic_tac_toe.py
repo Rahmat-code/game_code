@@ -1,6 +1,7 @@
 import random
 '''
-Tic-Tac-Toe Game
+Title : Tic-Tac-Toe Game
+wriiten by : Md Rahmat Hussain
 '''
 #display board function
 def display_board(board):
