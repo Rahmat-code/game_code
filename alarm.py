@@ -1,3 +1,7 @@
+"""
+simple code for alarm
+
+"""
 import winsound, time, os, platform
 
 
